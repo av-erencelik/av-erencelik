@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @av-erencelik
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me:
 https://github-readme-twitter.gazf.vercel.app/api?id=m_eren_celik
