@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/av-erencelik](https://github.com/av-erencelik)
 
-- 📝 I regularly write articles on [webdeveren.com/blog](erencelik.dev/blog)
+- 📝 I regularly write articles on [erencelik.dev/blog](erencelik.dev/blog)
 
 - 📫 How to reach me **av.erencelik@gmail.com**
 
