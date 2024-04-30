@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mehmet Eren Çelik</h1>
 <h3 align="center">Front-end developer with a law degree from Turkey</h3>
 
-- 🔭 I’m currently working on [webdeveren](https://github.com/av-erencelik/webdeveren)
+- 🔭 I’m currently working on BiberonApp
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/av-erencelik](https://github.com/av-erencelik)
 
-- 📝 I regularly write articles on [webdeveren.com/blog](webdeveren.com/blog)
+- 📝 I regularly write articles on [webdeveren.com/blog](erencelik.dev/blog)
 
 - 📫 How to reach me **av.erencelik@gmail.com**
 
